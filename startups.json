@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Hokkaido Entrepreneurship Expo",
+        "pitcherName": "Hokkaido Entrepreneurship Expo",
+        "descriptionBrief": "A community-driven organization, existing to promote the growth of the Hokkaido entrepreneurship ecosystem!",
+        "descriptionLong": "A community-driven organization, existing to promote the growth of the Hokkaido entrepreneurship ecosystem! This is done primarily through pitch events, and other initiatives, all with the purpose of putting spotlight on the startups in the ecosystem, and helping them grow.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/heex.png",
+        "socialMedia": {
+        "website": "https://www.hokkaidoeex.com",
+        "instagram": "https://www.instagram.com/hokkaidoentrepreneurshipexpo/",
+        "linkedin": "https://www.linkedin.com/company/hokkaido-entrepreneurship-expo/"
+        },
+        "pitchOrder": 10,
+        "event_id": 2
+    },
+    {
+        "name": "北海テクノロジー農業株式会社",
+        "pitcherName": "Angus Lam",
+        "descriptionBrief": "To solving current farming problem with Indoor vertical farming system. Wasabi growing and potato researching.",
+        "descriptionLong": "Hokkai Technology Nogyo Kabushiki Kaisha (北海テクノロジー農業株式会社) is a Japan groundbreaking agricultural enterprise specializing in the vertical farming of wasabi, which is register on 1st of April 2024. It is based on Australia Orange wasabi. It is dedicated to revolutionizing agriculture through innovative, sustainable, and space-efficient farming solutions. Our state-of-the-art vertical farms utilize hydroponic systems. By maximizing land use efficiency and minimizing water consumption, we are committed to addressing global food security challenges and promoting environmental sustainability. Our mission is finding an optional solution for the global challenge farming problem such as climate change, labour, water, land and natural disaster. Our duplicated wasabi growing system can sort out the low supply and high demand in the wasabi market, we are committed to delivering the highest quality wasabi. Also, we are researching potato, wheat and all kinds of vegetables. We are fund-raising for the company to scale up, planning to set up a 500 square meter area indoor wasabi growing factory the coming year, to wide spread our indoor growing system to different kinds of crops in the agriculture industry globally, helping farmer to solve their current difficulty, keeping food security for our human being. Create a new generation of Japanese horticulture industry.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/wasabi.png",
+        "socialMedia": {
+        "website": "https://www.orangewasabi.com.au",
+        "instagram": "https://www.instagram.com/hokkai_wasabi/"
+        },
+        "pitchOrder": 1,
+        "event_id": 2
+    },
+    {
+        "name": "FOX Academy KK",
+        "pitcherName": "Vijayalakshmi Karuppasamy",
+        "descriptionBrief": "At FOX Academy, we offer specialized AI courses tailored for enthusiasts in Japan, available in both English and Japanese. Our courses are designed and delivered by top industry experts from India and Japan, ranking among the top 1% in their fields.",
+        "descriptionLong": "At FOX Academy, we offer specialized AI courses tailored for enthusiasts in Japan, available in both English and Japanese. Our courses are designed and delivered by top industry experts from India and Japan, ranking among the top 1% in their fields. We focus on project-based and collaborative learning, allowing students to actively engage with the curriculum. Our unique platform features both pre-recorded sessions and live interactions with trainers, providing a flexible, engaging learning experience. This platform also facilitates unique collaboration opportunities, where Japanese students can work directly with leading Indian university students and AI professionals.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/fox.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/fox-academy/",
+        "website": "https://www.foxacademy.in",
+        "instagram": "https://www.instagram.com/foxacademy_japan/"
+        },
+        "pitchOrder": 9,
+        "event_id": 2
+    },
+    {
+        "name": "Floatmeal株式会社",
+        "pitcherName": "Sajjad Kamal Shuvro",
+        "descriptionBrief": "We harness beneficial microbiome of duckweed to mass produce protein and functional nutrients.",
+        "descriptionLong": "Realizing a green future by unlocking the potential of aquatic plants and duckweed, thus reducing carbon emission from food systems and agriculture. We harness the beneficial microbiomes of duckweed, to mass produce protein and functional nutrients.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/floatmeal.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/floatmeal/",
+        "website": "https://www.floatmealjp.com/",
+        "instagram": "https://www.instagram.com/floatmealjp/"
+        },
+        "pitchOrder": 0,
+        "event_id": 2
+    },
+    {
+        "name": "Tabi",
+        "pitcherName": "Damian McCusker",
+        "descriptionBrief": "Travel services aggregator. Focused on ski travel industry in Hokkaido. Empowering guests.",
+        "descriptionLong": "旅 Tabi \ntravel; trip; journey \nnoun (common) (futsuumeishi), noun or participle which takes the aux. verb suru. \nHokkaido is becoming increasingly popular with international tourists whether it's to see the lavender fields of Furano in Summer or to ski the world famous powder snow in Niseko and other resorts. The tourism services market in Hokkaido is extremely fragmented with numerous small suppliers all facing the same challenge to reach the target customer with an unknown brand name and with language often being a barrier to communication. Tabi is a travel services aggregator that empowers the guest to book a generic service type (such as Airport Transfers or Ski Lessons) from a selection of pre-approved suppliers.  Branded as Tabi for B2C bookings or white-labeled for international travel agents, bookings have never been so easy.  Think Uber and imagine how efficiently suppliers and customers can be connected in multiple languages! Benefits exist for all stakeholders whether it's ease of booking and competitive prices for the customer, wider reach and better capacity utilisation for the supplier.  Existing intermediaries such as the travel agent are not cut out of the equation either, they can focus on their core business and leave the sourcing, vetting and management of suppliers to us. Tabi-hodai!",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/tabi.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/damian-mccusker-73524617"
+        },
+        "pitchOrder": 2,
+        "event_id": 2
+    },
+    {
+        "name": "Letara株式会社",
+        "pitcherName": "櫻井惠介 / Keisuke Sakurai",
+        "descriptionBrief": "宇宙機用ハイブリッド化学推進系の開発・製造 / Developing and manufacturing Hybrid Chemical Propulsion Systems for spacecraft.",
+        "descriptionLong": "宇宙空間には様々な移動ニーズがありますが、既存の宇宙移動用の推進系(エンジン)は爆発性の高い燃料を使用しており、その危険性から安全管理や輸送コストが高く、販売価格も高くなり、顧客が導入する上で相当高いハードルとなっています。この高い導入ハードルが宇宙空間の移動を制限しており、人工衛星の多くが地球から一番近い低軌道に集中しています。当社の推進系は高推力を維持しつつ、プラスチックを燃料にしているため安全管理や調達コストを低く抑え、販売価格も安くすることができます。顧客が導入しやすい推進系を市場に提供することで、宇宙の移動可能性を高め、人類の活動圏を広げることに貢献するのが当社の事業です。",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/letara.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/letara/",
+        "website": "https://www.letara.space",
+        "instagram": "https://www.instagram.com/letara_space/"
+        },
+        "pitchOrder": 8,
+        "event_id": 2
+    },
+    {
+        "name": "Tryp.com",
+        "pitcherName": "Victor Gram Thomsen",
+        "descriptionBrief": "Tryp.com utilizes AI to allow travelers to travel more for less, at anytime, anywhere. Tryp.com provides a one-stop travel platform, delivering a new, AI-powered paradigm of traveling.",
+        "descriptionLong": "Tryp.com utilizes AI to allow travelers to travel more for less, at anytime, anywhere. Tryp.com provides a one-stop travel platform, delivering a new, AI-powered paradigm of traveling. The Tryp.com engine finds the best deals and experiences, within seconds, based on real time market prices. The platform allows you to go from having absolutely nothing planned, to having a fully planned trip booked, within a fraction of the time needed, on legacy online travel agency platforms. Each trip is booked instantly, and you get all the boarding passes via email, as well as a 24/7 dedicated support team. By leveraging the power of AI, Tryp.com allows users to search for trips in a way previously only possible through hours of manual labor. The platform makes flexible searching, to anywhere at any time, possible, and finds both transportation, accommodation, and activities - all there’s left for the users to do is the traveling. And the best part? It can do this for both single and multi-destination trips, allowing travelers to save money by experiencing more locations in one trip.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/tryp.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/trypcom/",
+        "website": "https://www.tryp.com/",
+        "instagram": "https://www.instagram.com/trypcom/"
+        },
+        "pitchOrder": 4,
+        "event_id": 2
+    },
+    {
+        "name": "Beeber Global",
+        "pitcherName": "Pratik Prashanta Biswas & Sristi Saha",
+        "descriptionBrief": "Beeber Global is a multilingual platform that connects Japanese hosts with international volunteers through tailored educational experiences, focusing on practical English language use and cross-cultural exchange.",
+        "descriptionLong": "Beeber Global is a multilingual platform that connects Japanese hosts with international volunteers through tailored educational experiences, focusing on practical English language use and cross-cultural exchange. What sets Beeber Global apart is its unique approach of integrating language learning with real-world activities, such as cooking and board games, to create immersive environments that enhance communication skills. Additionally, the platform emphasizes personalized support through mentoring and monitoring, ensuring that users not only improve their language proficiency but also foster meaningful connections across cultures.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/beeber.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/beeber-global/",
+        "website": "https://www.beeberglobal.com",
+        "instagram": "https://www.instagram.com/beeberglobal/"
+        },
+        "pitchOrder": 6,
+        "event_id": 2
+    },
+    {
+        "name": "Turing Drive Inc.",
+        "pitcherName": "熊可晴",
+        "descriptionBrief": "Turing Drive is a commercially-ready autonomous driving technology company based in Taiwan. Serving autonomous driving systems and fleet management systems.",
+        "descriptionLong": "Turing Drive is a commercially-ready autonomous driving technology company based in Taiwan. Serving as an autonomous driving systems provider, we offer comprehensive autonomous driving turnkey solutions that encompass both software and hardware, complemented by our self-developed Fleet Management System (FMS). Our refined automated technology enables vehicle manufacturers to seamlessly integrate our solutions. Pioneering the field, Turing Drive stands as the first team to successfully operate an autonomous bus on Xinyi Road in downtown Taipei City. Additionally, we have introduced an initial fleet of intelligent golf carts in Taiwan, deploying them on golf courses and holiday resorts. Our vision is to inspire vehicle manufacturers to incorporate autonomous features across diverse vehicle types, including golf carts, cargo carriers, and street sweepers. We aim to streamline the application of autonomous vehicles in geofenced areas such as golf fields, resorts, entertainment parks, and industrial facilities, ushering in a new era of operational efficiency for these vehicles.",
+        "logoUrl": "https://storage.googleapis.com/heex-website-resources/heex_2024_vol2/startup_logos/turingdrive.png",
+        "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/turing-drive/",
+        "website": "https://turing-drive.com/"
+        },
+        "pitchOrder": 5,
+        "event_id": 2
+    }
+]

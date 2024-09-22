@@ -1,0 +1,20 @@
+CREATE TABLE job_postings (
+    id SERIAL PRIMARY KEY,
+    company_name VARCHAR(255) NOT NULL,
+    job_title VARCHAR(255) NOT NULL,
+    job_description TEXT NOT NULL,
+    job_location VARCHAR(255) NOT NULL,
+    job_type VARCHAR(255) NOT NULL,
+    job_posted_date DATE NOT NULL,
+    job_posted_by VARCHAR(255) NOT NULL,
+    job_posted_email VARCHAR(255) NOT NULL,
+    job_posted_phone VARCHAR(255),
+    job_posted_website VARCHAR(255),
+    job_post_expiration_date DATE NOT NULL,
+    remuneration VARCHAR(255) NOT NULL,
+    remuneration_type VARCHAR(255) NOT NULL,
+    job_post_image_url VARCHAR(255) NOT NULL,
+    job_posting_active BOOLEAN DEFAULT TRUE,
+    job_posting_approved BOOLEAN DEFAULT FALSE,
+    job_posting_approved_by VARCHAR(255) 
+);
