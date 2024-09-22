@@ -1,17 +1,17 @@
 [
     {
         "name": "Hokkaido Entrepreneurship Expo 2024",
-        "description": "",
+        "description": "A community-driven Hokkaido Innovation Week pitch event, showcasing the diversity and quality of the Hokkaido entrepreneurship ecosystem! The event featured 10 early stage startups, pitching their companies to an audience of investors, media, community stakeholders, and other entrepreneurs.",
         "date": "2024-01-31",
-        "event_image_url": "",
+        "event_image_url": "https://storage.googleapis.com/heex-website-resources/event_images/heex2024.png",
         "venue_name": "Theatel, Sapporo, Susukino",
         "event_type": "Pitch Relay"
     },
     {
         "name": "Hokkaido Entrepreneurship Expo 2024, vol. 2",
-        "description": "",
+        "description": "Hokkaido Entrepreneurship Expo 2024 vol. 2 was a pitch relay event, shining a spotlight on the diversity and quality of the Hokkaido entrepreneurship ecosystem. The event featured 8 startups, pitching their companies to an audience of investors, media, community stakeholders, and other entrepreneurs.",
         "date": "2024-09-14",
-        "event_image_url": "",
+        "event_image_url": "https://storage.googleapis.com/heex-website-resources/event_images/heex2024vol2.png",
         "venue_name": "Theatel, Sapporo, Susukino",
         "event_type": "Pitch Relay"
     }
